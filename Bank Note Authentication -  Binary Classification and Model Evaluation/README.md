@@ -9,4 +9,4 @@
 https://archive.ics.uci.edu/ml/datasets/banknote+authentication
 
 ## Abstract:
-Data were extracted from images that were taken for the evaluation of an authentication procedure for banknotes.
+## Data were extracted from images that were taken for the evaluation of an authentication procedure for banknotes.
