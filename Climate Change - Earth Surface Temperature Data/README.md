@@ -1,6 +1,6 @@
 
 ## Climate Change: Earth Surface Temperature Data
-## Exploring global temperatures since 1750
+   Exploring global temperatures since 1750
 
 ## About this Dataset
 
